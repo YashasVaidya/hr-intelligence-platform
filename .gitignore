@@ -1,2 +1,4 @@
 context/
 analysis/
+node_modules/
+backend/venv/
