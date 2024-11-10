@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "title": "HR Specialist",
+    "description": "Budget better my. Enter particularly statement moment plant. Mr either probably leave.\nFollow sure off see identify. First affect shoulder baby available deal hard story. Required Skills: Data Analysis, Project Management, JavaScript, Machine Learning, TypeScript",
+    "required_proficiency": {
+      "Communication": 4,
+      "Project Management": 3,
+      "Python": 5,
+      "TypeScript": 4,
+      "React": 3
+    }
+  },
+  {
+    "id": 2,
+    "title": "Project Manager",
+    "description": "Citizen happy pressure but quite may political.\nRecord purpose foreign seem indeed direction. Sit sit food term world page. Fight detail bed join half center trouble. Required Skills: Communication, Data Analysis, Machine Learning, JavaScript",
+    "required_proficiency": {
+      "React": 4,
+      "Communication": 5,
+      "Data Analysis": 3,
+      "Python": 5
+    }
+  },
+  {
+    "id": 3,
+    "title": "Data Scientist",
+    "description": "Somebody spring woman every gas road. Similar notice this.\nView role will performance save together positive draw. Decision computer reality writer into. Tell story sign cup become add. Required Skills: TypeScript, Machine Learning, JavaScript, Project Management",
+    "required_proficiency": {
+      "TypeScript": 4,
+      "React": 5,
+      "Data Analysis": 3
+    }
+  },
+  {
+    "id": 4,
+    "title": "HR Specialist",
+    "description": "Majority instead later order your would traditional. Enough human more production often. These article town finally.\nPull laugh trial hundred particular environment member employee. Required Skills: JavaScript, Data Analysis, Machine Learning",
+    "required_proficiency": {
+      "TypeScript": 4,
+      "Communication": 3,
+      "Data Analysis": 5,
+      "Machine Learning": 5,
+      "JavaScript": 4
+    }
+  },
+  {
+    "id": 5,
+    "title": "Project Manager",
+    "description": "Pick method commercial course sister. State billion skill decide enter. Make action marriage center magazine.\nClose sing help check meeting station. Skin citizen require court. Required Skills: Python, JavaScript, Project Management, Communication, Machine Learning",
+    "required_proficiency": {
+      "React": 4,
+      "Python": 5,
+      "Communication": 4,
+      "Data Analysis": 5,
+      "Project Management": 3
+    }
+  },
+  {
+    "id": 6,
+    "title": "HR Specialist",
+    "description": "Candidate need fly same. Arrive social pull interesting film own pattern. President before forward news husband. Sometimes through cup base forward ago. Required Skills: Data Analysis, React, Python",
+    "required_proficiency": {
+      "JavaScript": 4,
+      "Machine Learning": 5,
+      "Project Management": 4
+    }
+  },
+  {
+    "id": 7,
+    "title": "Data Scientist",
+    "description": "Hear clear realize agreement financial. Morning rule child although.\nSport whatever new push city Mr catch thought. Action support serve economic professor interest his. Required Skills: Communication, Python, Machine Learning, JavaScript",
+    "required_proficiency": {
+      "Project Management": 4,
+      "JavaScript": 3,
+      "Data Analysis": 3
+    }
+  }
+]

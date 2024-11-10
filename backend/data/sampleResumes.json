@@ -1,0 +1,273 @@
+[
+  {
+    "id": 1,
+    "name": "Crystal Schroeder",
+    "email": "yvonne47@example.net",
+    "phone": "7297750544",
+    "address": "5132 Miller Dam East Jamesport, OH 07017",
+    "summary": "Results-driven Software Engineer professional with extensive experience in 5. Demonstrated success in Database Management and improving operational efficiency. Skilled in leading cross-functional teams with a passion for TypeScript.",
+    "work_experience": "\\textbf{Software Engineer} at Rivera LLC (2021 - 2023)\\newline\n\\begin{itemize}[noitemsep]\n\\item Visionary static implementation\n\\item Successfully cultivate 24/7 web services\n\\item Led team of 10 professionals in assimilated eco-centric capability\n\\end{itemize}\n\n\\textbf{UX Designer} at Howell-Brown (2021 - 2022)\\newline\n\\begin{itemize}[noitemsep]\n\\item Focused dedicated protocol\n\\item Successfully productize seamless markets\n\\item Led team of 6 professionals in total systemic graphical user interface\n\\end{itemize}",
+    "education": "\\textbf{Bachelor of Arts in Sociology} at California State University, Long Beach (2017)",
+    "skills": [
+      "Database Management",
+      "TypeScript",
+      "Python",
+      "Machine Learning"
+    ],
+    "file_path": "resumes/resume_1.pdf"
+  },
+  {
+    "id": 2,
+    "name": "Angela Brewer",
+    "email": "abigailayers@example.com",
+    "phone": "(221)452-9833",
+    "address": "USNV Abbott FPO AE 95188",
+    "summary": "Results-driven Project Manager professional with extensive experience in 3. Demonstrated success in System Design and developing strategic initiatives. Skilled in developing strategic initiatives with a passion for JavaScript.",
+    "work_experience": "\\textbf{Project Manager} at Russell and Sons (2021 - 2024)\\newline\n\\begin{itemize}[noitemsep]\n\\item Virtual zero tolerance contingency\n\\item Successfully re-contextualize dot-com bandwidth\n\\item Led team of 13 professionals in persevering scalable forecast\n\\end{itemize}\n\n\\textbf{Software Engineer} at Moran-Patel (2020 - 2024)\\newline\n\\begin{itemize}[noitemsep]\n\\item Multi-channeled neutral productivity\n\\item Successfully orchestrate cutting-edge metrics\n\\item Led team of 8 professionals in quality-focused attitude-oriented parallelism\n\\end{itemize}",
+    "education": "\\textbf{Bachelor of Science in Biology} at Stanford University (2020)",
+    "skills": [
+      "System Design",
+      "JavaScript",
+      "Database Management",
+      "React",
+      "Agile Methodologies"
+    ],
+    "file_path": "resumes/resume_2.pdf"
+  },
+  {
+    "id": 3,
+    "name": "Peter Harvey",
+    "email": "carrie48@example.net",
+    "phone": "+1-534-239-7123",
+    "address": "5411 Kyle Extension Sarahberg, PW 98558",
+    "summary": "Results-driven Product Manager professional with extensive experience in 15. Demonstrated success in System Design and driving project success. Skilled in developing strategic initiatives with a passion for Project Management.",
+    "work_experience": "\\textbf{Product Manager} at Armstrong, Klein and Rodriguez (2021 - 2022)\\newline\n\\begin{itemize}[noitemsep]\n\\item User-friendly background migration\n\\item Successfully e-enable extensible schemas\n\\item Led team of 3 professionals in cloned empowering graphical user interface\n\\end{itemize}\n\n\\textbf{Full Stack Developer} at Curry, May and Hebert (2022 - 2024)\\newline\n\\begin{itemize}[noitemsep]\n\\item Customizable incremental challenge\n\\item Successfully seize out-of-the-box supply-chains\n\\item Led team of 7 professionals in proactive 24/7 core\n\\end{itemize}",
+    "education": "\\textbf{Master of Science in Environmental Science} at Boston College (2018)",
+    "skills": [
+      "System Design",
+      "Project Management",
+      "Communication",
+      "JavaScript",
+      "Data Analysis",
+      "Machine Learning"
+    ],
+    "file_path": "resumes/resume_3.pdf"
+  },
+  {
+    "id": 4,
+    "name": "Christopher West",
+    "email": "jeremy05@example.com",
+    "phone": "374-481-0530x7401",
+    "address": "Unit 6997 Box 9895 DPO AP 02263",
+    "summary": "Experienced Business Analyst with 10 years of expertise in Project Management. Proven track record in driving project success and developing strategic initiatives. Strong background in Cloud Computing with a focus on delivering high-quality results.",
+    "work_experience": "\\textbf{Business Analyst} at Phillips, Coleman and Morgan (2020 - 2024)\\newline\n\\begin{itemize}[noitemsep]\n\\item Fundamental full-range portal\n\\item Successfully harness magnetic schemas\n\\item Led team of 13 professionals in ameliorated upward-trending toolset\n\\end{itemize}\n\n\\textbf{Project Manager} at Moore, Robinson and Sanchez (2022 - 2024)\\newline\n\\begin{itemize}[noitemsep]\n\\item Automated logistical paradigm\n\\item Successfully seize web-enabled initiatives\n\\item Led team of 13 professionals in persevering methodical contingency\n\\end{itemize}",
+    "education": "\\textbf{Bachelor of Science in Mathematics} at California State University, Long Beach (2018)",
+    "skills": [
+      "Project Management",
+      "Cloud Computing",
+      "Machine Learning",
+      "TypeScript"
+    ],
+    "file_path": "resumes/resume_4.pdf"
+  },
+  {
+    "id": 5,
+    "name": "Brandon Gonzales",
+    "email": "rpatrick@example.org",
+    "phone": "549.996.7802x956",
+    "address": "83710 Haney Grove Apt. 490 Nicholasview, TX 92726",
+    "summary": "Results-driven UX Designer professional with extensive experience in 12. Demonstrated success in Database Management and leading cross-functional teams. Skilled in improving operational efficiency with a passion for Project Management.",
+    "work_experience": "\\textbf{UX Designer} at Bender, Shaffer and Fritz (2020 - 2021)\\newline\n\\begin{itemize}[noitemsep]\n\\item Visionary impactful matrix\n\\item Successfully facilitate granular applications\n\\item Led team of 11 professionals in cloned local paradigm\n\\end{itemize}\n\n\\textbf{Project Manager} at Krause-Andrade (2020 - 2024)\\newline\n\\begin{itemize}[noitemsep]\n\\item Focused client-server capacity\n\\item Successfully matrix real-time markets\n\\item Led team of 5 professionals in devolved intangible contingency\n\\end{itemize}",
+    "education": "\\textbf{Bachelor of Science in Computer Science} at California State University, Long Beach (2016)",
+    "skills": [
+      "Database Management",
+      "Project Management",
+      "React",
+      "Communication"
+    ],
+    "file_path": "resumes/resume_5.pdf"
+  },
+  {
+    "id": 6,
+    "name": "Lauren Vazquez",
+    "email": "ibest@example.com",
+    "phone": "817.646.1160x62516",
+    "address": "100 Karen Walks Suite 623 Collinsmouth, IL 85440",
+    "summary": "Experienced Product Manager with 13 years of expertise in React. Proven track record in implementing innovative solutions and improving operational efficiency. Strong background in Agile Methodologies with a focus on delivering high-quality results.",
+    "work_experience": "\\textbf{Product Manager} at Bryant Ltd (2021 - 2024)\\newline\n\\begin{itemize}[noitemsep]\n\\item Devolved multimedia benchmark\n\\item Successfully matrix frictionless niches\n\\item Led team of 5 professionals in upgradable optimal local area network\n\\end{itemize}\n\n\\textbf{Business Analyst} at Silva, Brown and Stone (2020 - 2024)\\newline\n\\begin{itemize}[noitemsep]\n\\item Customizable analyzing circuit\n\\item Successfully transform 24/7 e-commerce\n\\item Led team of 10 professionals in re-contextualized didactic architecture\n\\end{itemize}",
+    "education": "\\textbf{Bachelor of Science in Biology} at Stanford University (2021)",
+    "skills": [
+      "React",
+      "Agile Methodologies",
+      "Project Management",
+      "System Design",
+      "Python",
+      "JavaScript"
+    ],
+    "file_path": "resumes/resume_6.pdf"
+  },
+  {
+    "id": 7,
+    "name": "Mr. Keith Wright",
+    "email": "smithtamara@example.net",
+    "phone": "5068825791",
+    "address": "037 Larson Way Salazarborough, CO 76912",
+    "summary": "Experienced Project Manager with 4 years of expertise in Database Management. Proven track record in optimizing business processes and leading cross-functional teams. Strong background in TypeScript with a focus on delivering high-quality results.",
+    "work_experience": "\\textbf{Project Manager} at Harris Group (2020 - 2021)\\newline\n\\begin{itemize}[noitemsep]\n\\item Versatile zero-defect focus group\n\\item Successfully unleash 24/7 markets\n\\item Led team of 5 professionals in down-sized system-worthy architecture\n\\end{itemize}\n\n\\textbf{Software Engineer} at Hughes, Marshall and Mendoza (2020 - 2024)\\newline\n\\begin{itemize}[noitemsep]\n\\item Function-based analyzing capability\n\\item Successfully whiteboard mission-critical niches\n\\item Led team of 9 professionals in cloned discrete throughput\n\\end{itemize}",
+    "education": "\\textbf{Bachelor of Science in Mathematics} at University of North Carolina at Chapel Hill (2014)",
+    "skills": [
+      "Database Management",
+      "TypeScript",
+      "React",
+      "Data Analysis"
+    ],
+    "file_path": "resumes/resume_7.pdf"
+  },
+  {
+    "id": 8,
+    "name": "Dana Silva",
+    "email": "kellysimmons@example.net",
+    "phone": "+1-850-480-0864x3245",
+    "address": "PSC 2421, Box 1633 APO AP 34279",
+    "summary": "Results-driven Machine Learning Engineer professional with extensive experience in 3. Demonstrated success in Machine Learning and implementing innovative solutions. Skilled in driving project success with a passion for JavaScript.",
+    "work_experience": "\\textbf{Machine Learning Engineer} at Lara LLC (2019 - 2021)\\newline\n\\begin{itemize}[noitemsep]\n\\item Profound high-level system engine\n\\item Successfully expedite innovative experiences\n\\item Led team of 15 professionals in managed optimizing moderator\n\\end{itemize}\n\n\\textbf{Business Analyst} at Cole-Mills (2021 - 2022)\\newline\n\\begin{itemize}[noitemsep]\n\\item Proactive composite infrastructure\n\\item Successfully visualize compelling relationships\n\\item Led team of 10 professionals in virtual even-keeled algorithm\n\\end{itemize}",
+    "education": "\\textbf{Master of Science in Data Science} at Stanford University (2023)",
+    "skills": [
+      "Machine Learning",
+      "JavaScript",
+      "Python",
+      "Agile Methodologies",
+      "System Design",
+      "TypeScript"
+    ],
+    "file_path": "resumes/resume_8.pdf"
+  },
+  {
+    "id": 9,
+    "name": "Christopher Ortega",
+    "email": "heather11@example.net",
+    "phone": "4188075713",
+    "address": "79774 Smith Mountain West Alexville, IN 75445",
+    "summary": "Results-driven Technical Lead professional with extensive experience in 13. Demonstrated success in Agile Methodologies and optimizing business processes. Skilled in leading cross-functional teams with a passion for DevOps.",
+    "work_experience": "\\textbf{Technical Lead} at Shepherd-Ramirez (2022 - 2023)\\newline\n\\begin{itemize}[noitemsep]\n\\item Cross-group value-added support\n\\item Successfully morph 24/7 vortals\n\\item Led team of 10 professionals in mandatory upward-trending infrastructure\n\\end{itemize}\n\n\\textbf{Project Manager} at Stevens LLC (2020 - 2021)\\newline\n\\begin{itemize}[noitemsep]\n\\item Multi-lateral reciprocal service-desk\n\\item Successfully deliver turn-key ROI\n\\item Led team of 8 professionals in persistent 3rdgeneration approach\n\\end{itemize}",
+    "education": "\\textbf{Bachelor of Science in Computer Science} at University of Alabama (2016)",
+    "skills": [
+      "Agile Methodologies",
+      "DevOps",
+      "Communication",
+      "System Design",
+      "Database Management"
+    ],
+    "file_path": "resumes/resume_9.pdf"
+  },
+  {
+    "id": 10,
+    "name": "Kimberly Turner",
+    "email": "janet58@example.org",
+    "phone": "406-646-5610",
+    "address": "52811 Kelly Track Caseyton, MS 83329",
+    "summary": "Experienced Full Stack Developer with 7 years of expertise in TypeScript. Proven track record in optimizing business processes and improving operational efficiency. Strong background in Project Management with a focus on delivering high-quality results.",
+    "work_experience": "\\textbf{Full Stack Developer} at Hamilton, Mills and Cook (2019 - 2024)\\newline\n\\begin{itemize}[noitemsep]\n\\item Operative full-range monitoring\n\\item Successfully unleash virtual web-readiness\n\\item Led team of 5 professionals in enterprise-wide motivating functionalities\n\\end{itemize}\n\n\\textbf{Project Manager} at Simmons, Mcintosh and Coleman (2020 - 2021)\\newline\n\\begin{itemize}[noitemsep]\n\\item Proactive 5thgeneration portal\n\\item Successfully exploit intuitive platforms\n\\item Led team of 5 professionals in sharable high-level functionalities\n\\end{itemize}",
+    "education": "\\textbf{Bachelor of Science in Biology} at University of Alabama (2017)",
+    "skills": [
+      "TypeScript",
+      "Project Management",
+      "DevOps",
+      "Machine Learning",
+      "JavaScript",
+      "Data Analysis"
+    ],
+    "file_path": "resumes/resume_10.pdf"
+  },
+  {
+    "id": 11,
+    "name": "Geoffrey Day",
+    "email": "justin00@example.org",
+    "phone": "(379)710-7468x7469",
+    "address": "41692 Lane Stream Wuport, SC 19445",
+    "summary": "Dynamic Business Analyst with 13 years of experience specializing in Communication. Expert in implementing innovative solutions and implementing innovative solutions. Proven ability to Team Leadership.",
+    "work_experience": "\\textbf{Business Analyst} at Joseph-Tyler (2022 - 2023)\\newline\n\\begin{itemize}[noitemsep]\n\\item Open-source composite contingency\n\\item Successfully matrix one-to-one systems\n\\item Led team of 15 professionals in secured empowering open architecture\n\\end{itemize}\n\n\\textbf{Data Scientist} at Warner Ltd (2019 - 2022)\\newline\n\\begin{itemize}[noitemsep]\n\\item Front-line empowering paradigm\n\\item Successfully extend proactive eyeballs\n\\item Led team of 15 professionals in right-sized hybrid extranet\n\\end{itemize}",
+    "education": "\\textbf{Bachelor of Science in Computer Science} at University of North Carolina at Chapel Hill (2020)",
+    "skills": [
+      "Communication",
+      "Team Leadership",
+      "TypeScript",
+      "Project Management",
+      "Database Management",
+      "JavaScript"
+    ],
+    "file_path": "resumes/resume_11.pdf"
+  },
+  {
+    "id": 12,
+    "name": "Nicole Terry",
+    "email": "lvelasquez@example.net",
+    "phone": "628.454.5172x071",
+    "address": "75869 Jillian Cove Apt. 622 Port Michelleburgh, DC 69185",
+    "summary": "Dynamic Machine Learning Engineer with 12 years of experience specializing in Project Management. Expert in improving operational efficiency and developing strategic initiatives. Proven ability to System Design.",
+    "work_experience": "\\textbf{Machine Learning Engineer} at Thompson PLC (2021 - 2023)\\newline\n\\begin{itemize}[noitemsep]\n\\item Front-line static firmware\n\\item Successfully integrate granular web services\n\\item Led team of 3 professionals in business-focused neutral customer loyalty\n\\end{itemize}\n\n\\textbf{Full Stack Developer} at Harris, Smith and Davis (2020 - 2021)\\newline\n\\begin{itemize}[noitemsep]\n\\item Adaptive reciprocal secured line\n\\item Successfully scale scalable bandwidth\n\\item Led team of 4 professionals in balanced well-modulated algorithm\n\\end{itemize}",
+    "education": "\\textbf{Bachelor of Science in Mathematics} at Harvard University (2017)",
+    "skills": [
+      "Project Management",
+      "System Design",
+      "JavaScript",
+      "React"
+    ],
+    "file_path": "resumes/resume_12.pdf"
+  },
+  {
+    "id": 13,
+    "name": "Timothy Meyer",
+    "email": "taylordrew@example.net",
+    "phone": "+1-858-391-5437x0586",
+    "address": "259 Rivera Locks North Tony, UT 83689",
+    "summary": "Results-driven Project Manager professional with extensive experience in 8. Demonstrated success in Agile Methodologies and driving project success. Skilled in driving project success with a passion for JavaScript.",
+    "work_experience": "\\textbf{Project Manager} at Singh, Smith and Hammond (2019 - 2020)\\newline\n\\begin{itemize}[noitemsep]\n\\item Synergized static paradigm\n\\item Successfully benchmark robust mindshare\n\\item Led team of 9 professionals in networked secondary superstructure\n\\end{itemize}\n\n\\textbf{Data Scientist} at Mendoza, Merritt and English (2020 - 2024)\\newline\n\\begin{itemize}[noitemsep]\n\\item Operative object-oriented instruction set\n\\item Successfully target interactive e-markets\n\\item Led team of 13 professionals in public-key composite structure\n\\end{itemize}",
+    "education": "\\textbf{Bachelor of Science in Mathematics} at University of North Carolina at Chapel Hill (2015)",
+    "skills": [
+      "Agile Methodologies",
+      "JavaScript",
+      "Cloud Computing",
+      "Project Management",
+      "Database Management",
+      "DevOps"
+    ],
+    "file_path": "resumes/resume_13.pdf"
+  },
+  {
+    "id": 14,
+    "name": "Timothy Bradley",
+    "email": "slee@example.org",
+    "phone": "801.641.2556x019",
+    "address": "722 Kayla Tunnel West Ronnie, CO 12269",
+    "summary": "Experienced DevOps Engineer with 8 years of expertise in TypeScript. Proven track record in leading cross-functional teams and optimizing business processes. Strong background in Cloud Computing with a focus on delivering high-quality results.",
+    "work_experience": "\\textbf{DevOps Engineer} at Wagner, Pineda and Smith (2022 - 2023)\\newline\n\\begin{itemize}[noitemsep]\n\\item Optional motivating structure\n\\item Successfully drive plug-and-play supply-chains\n\\item Led team of 11 professionals in object-based transitional middleware\n\\end{itemize}\n\n\\textbf{Project Manager} at Johns PLC (2021 - 2022)\\newline\n\\begin{itemize}[noitemsep]\n\\item Streamlined background attitude\n\\item Successfully monetize customized convergence\n\\item Led team of 5 professionals in devolved multi-tasking leverage\n\\end{itemize}",
+    "education": "\\textbf{Master of Public Health} at University of Texas at Austin (2014)",
+    "skills": [
+      "TypeScript",
+      "Cloud Computing",
+      "Machine Learning",
+      "Python",
+      "Database Management",
+      "System Design"
+    ],
+    "file_path": "resumes/resume_14.pdf"
+  },
+  {
+    "id": 15,
+    "name": "Veronica Smith",
+    "email": "christopher22@example.net",
+    "phone": "001-982-353-6530x8603",
+    "address": "0363 Suzanne Light East Melissabury, TN 70553",
+    "summary": "Dynamic Technical Lead with 10 years of experience specializing in System Design. Expert in implementing innovative solutions and implementing innovative solutions. Proven ability to Python.",
+    "work_experience": "\\textbf{Technical Lead} at Spencer Group (2020 - 2023)\\newline\n\\begin{itemize}[noitemsep]\n\\item Synergistic 4thgeneration ability\n\\item Successfully enable B2C markets\n\\item Led team of 7 professionals in assimilated demand-driven approach\n\\end{itemize}\n\n\\textbf{Data Scientist} at Ramos-Paul (2021 - 2022)\\newline\n\\begin{itemize}[noitemsep]\n\\item Horizontal methodical paradigm\n\\item Successfully deliver collaborative info-mediaries\n\\item Led team of 9 professionals in user-centric web-enabled leverage\n\\end{itemize}",
+    "education": "\\textbf{Master of Science in Environmental Science} at Stanford University (2022)",
+    "skills": [
+      "System Design",
+      "Python",
+      "React",
+      "JavaScript"
+    ],
+    "file_path": "resumes/resume_15.pdf"
+  }
+]
